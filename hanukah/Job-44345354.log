@@ -1,0 +1,14 @@
+Analysis initiated from SIMULIA established products
+Abaqus JOB Job-44345354
+Abaqus 2021.HF3
+Abaqus License Manager checked out the following licenses:
+Abaqus/Standard checked out 5 tokens from Flexnet server localhost.
+<9994 out of 9999 licenses remain available>.
+Begin Analysis Input File Processor
+6/22/2024 5:43:38 PM
+Run pre.exe
+6/22/2024 5:43:45 PM
+End Analysis Input File Processor
+Begin Abaqus/Standard Analysis
+6/22/2024 5:43:45 PM
+Run standard.exe
